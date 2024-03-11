@@ -5,6 +5,11 @@
 		--theme-background-tertiary: #c8c8c8;
 		--theme-background-quaternary: #b1b1b1;
 
+		--theme-background-primary-invert: #1b1b1b;
+		--theme-background-secondary-invert: #101822;
+		--theme-background-tertiary-invert: #343434;
+		--theme-background-quaternary-invert: #4e4e4e;
+
 		--theme-border-primary:  #cdcdcd;
 		--theme-border-secondary:  #cdcdcd;
 
@@ -37,6 +42,11 @@
 		--theme-background-secondary: #101822;
 		--theme-background-tertiary: #343434;
 		--theme-background-quaternary: #4e4e4e;
+
+		--theme-background-primary-invert: #fff;
+		--theme-background-secondary-invert: #eee;
+		--theme-background-tertiary-invert: #c8c8c8;
+		--theme-background-quaternary-invert: #b1b1b1;
 
 		--theme-border-primary:  #858585;
 		--theme-border-secondary:  #696969;
