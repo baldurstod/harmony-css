@@ -10,6 +10,5 @@
     "declarationMap": true,
     "outDir": "dist",
     "declarationDir": "dist/dts",
-    "plugins": [{ "name": "typescript-plugin-css-modules" }]
   }
 }
